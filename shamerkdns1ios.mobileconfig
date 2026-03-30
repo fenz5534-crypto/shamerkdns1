@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+<key>PayloadType</key>
+<string>Configuration</string>
+
+<key>PayloadVersion</key>
+<integer>1</integer>
+
+<key>PayloadIdentifier</key>
+<string>com.shamerk.profile</string>
+
+<key>PayloadUUID</key>
+<string>f1c8c2a0-5678-4d1a-9c7c-222222222222</string>
+
+<key>PayloadDisplayName</key>
+<string>Dns Shamerk (Game supercell)</string>
+
+<key>PayloadContent</key>
+<array>
+<dict>
+
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+
+<key>PayloadVersion</key>
+<integer>1</integer>
+
+<key>PayloadIdentifier</key>
+<string>com.shamerk.dns</string>
+
+<key>PayloadUUID</key>
+<string>f1c8c2a0-1234-4d1a-9c7c-111111111111</string>
+
+<key>PayloadDisplayName</key>
+<string>Dns Shamerk DNS</string>
+
+<key>DNSSettings</key>
+<dict>
+
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+
+<key>ServerURL</key>
+<string>https://dns.nullsproxy.com/dns-query</string>
+
+</dict>
+
+</dict>
+</array>
+
+</dict>
+</plist>
