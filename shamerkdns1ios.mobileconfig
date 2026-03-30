@@ -44,7 +44,7 @@
 <string>HTTPS</string>
 
 <key>ServerURL</key>
-<string>https://dns.geohide.ru/dns-query</string>
+<string>https://xbox-dns.ru/dns-query</string>
 
 </dict>
 
